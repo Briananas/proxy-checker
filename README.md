@@ -10,5 +10,5 @@ Usage:
 - You can change max threads that are used.
 - You can change the url to check.
 - You can change the proxy timeout.
-- Put your proxies in the 'proxies.txt' file
-- Working proxies will be saved in 'proxies_working.txt'
+- Put your proxies in a txt called 'proxies.txt'
+- Working proxies will be saved in 'proxies_working.txt' (will be created automatically)
