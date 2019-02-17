@@ -6,9 +6,9 @@ Installation:
 - pip install requests 
 - python checker.py
 
-
-You can change max threads that are used.
-You can also change the url to check.
-
-Put your proxies in the 'proxies.txt' file
-Working proxies will be saved in 'proxies_working.txt'
+Usage:
+- You can change max threads that are used.
+- You can change the url to check.
+- You can change the proxy timeout.
+- Put your proxies in the 'proxies.txt' file
+- Working proxies will be saved in 'proxies_working.txt'
